@@ -9,7 +9,8 @@ public class problem1{
 		//getNumber();
 		//addition(10);
 		//toThePower(5, 5);
-		multiplication(6);
+		int x = multiplication(6);
+		System.out.println(x);
 	}
 
 	
@@ -27,7 +28,7 @@ public class problem1{
 	}
 								//x = beginning number n = exponent
 	public static void toThePower(int x, int n){
-
+//adifjaoidoijgaiaghiujgjaghitjaiujfiojasjfapodfa;giojgfiojgijogfijofgdjiol
 		int temp = x;
 		int exponent = n;
 
@@ -50,8 +51,6 @@ public class problem1{
 
 				temp = temp * i;
 			}
-
-				System.out.println(temp);
 
 				return temp;
 		}
