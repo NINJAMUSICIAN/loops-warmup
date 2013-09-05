@@ -6,13 +6,13 @@ public class problem1{
 	public static int total;
 
 	public static void main(String[] args) {
-		getNumber();
+		
 		int a = addition(10);
 		System.out.println("addition thing = " + a);
 		int b = toThePower(5, 5);
 		System.out.println("exponent thing = " + b);
 		int x = multiplication(6);
-		System.out.println("factoral thing " + x);
+		System.out.println("factoral thing = " + x);
 	}
 
 	
